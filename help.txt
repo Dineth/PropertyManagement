@@ -1,0 +1,16 @@
+For run this project
+
+Go to Property management root folder
+type npm install
+type node server.js
+
+to change the ui
+Go to the client folder do the ui changes
+Change the webpackconfig  out put filename property to
+
+filename: '../assets/bundledindex.js make the changes
+and run npm build
+go to root folder again and run node server.js
+
+if yo want to run webpackdev server
+just type npm start in client folder

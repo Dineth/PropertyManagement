@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LeaseInfo snap shot test it should pass the snapshot test 1`] = `
+<div
+  id="leaseInfo"
+>
+  <legend>
+    Lease Info
+  </legend>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      ID
+    </div>
+    <div
+      className="col"
+    >
+      123
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      Sart date
+    </div>
+    <div
+      className="col"
+    >
+      2018-07-12
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      End date
+    </div>
+    <div
+      className="col"
+    >
+      2018-11-17
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      Rent
+    </div>
+    <div
+      className="col"
+    >
+      545
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      Freequency
+    </div>
+    <div
+      className="col"
+    >
+      weekly
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      Payment day
+    </div>
+    <div
+      className="col"
+    >
+      wednesday
+    </div>
+  </div>
+</div>
+`;
